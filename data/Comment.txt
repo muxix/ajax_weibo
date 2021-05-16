@@ -1,0 +1,26 @@
+[
+  {
+    "id": 2,
+    "content": "u1 w2 comment2 edit",
+    "user_id": 1,
+    "weibo_id": 1
+  },
+  {
+    "id": 3,
+    "content": "u1 wu2 comment1 edit",
+    "user_id": 1,
+    "weibo_id": 2
+  },
+  {
+    "id": 5,
+    "content": "u2 w2 comment1 edit",
+    "user_id": 2,
+    "weibo_id": 1
+  },
+  {
+    "id": 6,
+    "content": "u2 wu2 comment1 edit",
+    "user_id": 2,
+    "weibo_id": 2
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "content": "user1 weibo2 edit",
+    "user_id": 1,
+    "created_time": 1616296582,
+    "updated_time": 1616296869
+  },
+  {
+    "id": 2,
+    "content": "user2 weibo1 edit",
+    "user_id": 2,
+    "created_time": 1616296621,
+    "updated_time": 1616297161
+  }
+]
